@@ -26,4 +26,4 @@ These are my first attempt at ricing in linux
     -(These are the main ones if you want more info refer to hyprland.conf or hyprland wiki.
     
 # Kitty
- - As of now the kitty config is quiet basic although ill try to add more stuff in the future.
+ - As of now the kitty config is remains basic although ill try to add more stuff in the future.
