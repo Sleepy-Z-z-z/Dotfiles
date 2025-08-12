@@ -75,36 +75,66 @@ There is 3 main reasons i use paru over yay:
    ```
 <details>
 <summary>What do they do</summary>
+  
    -thunar = file browser
+   
    -vivaldi = browser
+   
    -swaync = notification daemon
+   
    -waybar = status bar
+   
    -steam = steam 
+   
    -prismlauncher = minecraft launcher
+   
    -discord = messaging app
+   
    -yazi = file browser but in terminal
+   
    -btop = taskmanager/resource monitor
+   
    -swww = wallpaper daemon
+   
    -mpv = adds video compatibility
+   
    -wine=adds "support" for windows programs
+   
    -zsh = shell 
+   
    -kitty = terminal simulator
+   
    -nvim = text editor
+   
    -nwg-look = helps change gtk app themes/icons etc
+   
    -unzip = unzips files
    -file-roller = unzips other types of files like .rar .7z etc (+has a gui)
+   
    -python-pywal = color theme creator 
+   
    -clamav = basically antivirus
+   
    -tty-clock = clock
+   
    -pavucontrol = audio controls 
+
    -fastfetch = fastfetch (you can use neofetch if you want)
+   
    -spotify = spotify
+   
    -spicetify = spotify custumization tool
+   
    -waypaper = wallpaper picker + makes things easier to manage and setup
+   
    -mpvpaper = video wallpaper (it may cause performance issues)
+   
    -ani-cli = watch anime
+   
    -cmatix = cool matrix rain effect
+   
    -cava = audio visualizer 
+   
 </details>
    
   
