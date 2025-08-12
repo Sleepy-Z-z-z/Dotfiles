@@ -1,6 +1,11 @@
+
 # Dotfilesv1
 These are my first attempt at ricing in linux 
 
+# Index 
+- [Hyprland](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#hyprlandconf)
+- [Kitty](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#kitty)
+- 
 --------------------------------------------------------------
 #  Hyprland.conf
   -WARNING-
@@ -26,4 +31,9 @@ These are my first attempt at ricing in linux
     -(These are the main ones if you want more info refer to hyprland.conf or hyprland wiki.
     
 # Kitty
- - As of now the kitty config is remains basic although ill try to add more stuff in the future.
+ - As of now the kitty config remains basic although ill try to add more stuff in the future.
+
+# Fastfetch
+ I changed/removed most of the useless information it gave ([refer to the fastfetch wiki if you need help editing it](https://github.com/fastfetch-cli/fastfetch/wiki/Configuration)]
+ 
+ ![Example](<img width="873" height="376" alt="Image" src="https://github.com/user-attachments/assets/658e5d6b-e614-4b6e-ac08-dac4a2538e50" />)
