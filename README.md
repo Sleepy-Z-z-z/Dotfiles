@@ -3,9 +3,9 @@
 These are my first attempt at ricing in linux 
 
 # Index 
-- [Hyprland](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#hyprlandconf)
-- [Kitty](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#kitty)
-- 
+- [**Hyprland**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#hyprlandconf)
+- [**Kitty**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#kitty)
+- [**fastfetch**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#fastfetch)
 --------------------------------------------------------------
 #  Hyprland.conf
   -WARNING-
