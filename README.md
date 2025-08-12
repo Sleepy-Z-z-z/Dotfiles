@@ -34,6 +34,9 @@ These are my first attempt at ricing in linux
  - As of now the kitty config remains basic although ill try to add more stuff in the future.
 
 # Fastfetch
- I changed/removed most of the useless information it gave ([refer to the fastfetch wiki if you need help editing it](https://github.com/fastfetch-cli/fastfetch/wiki/Configuration)]
  
- ![Example](<img width="873" height="376" alt="Image" src="https://github.com/user-attachments/assets/658e5d6b-e614-4b6e-ac08-dac4a2538e50" />)
+ I changed/removed most of the useless information it gave ([refer to the fastfetch wiki if you need help editing it](https://github.com/fastfetch-cli/fastfetch/wiki/Configuration)]
+
+**Preview:**
+ 
+ ![Example](https://github.com/user-attachments/assets/81c2863a-ba8b-4de0-ac1f-b12dfdf88219)
