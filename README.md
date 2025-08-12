@@ -73,9 +73,9 @@ There is 3 main reasons i use paru over yay:
    ```bash
   sudo freshclam
    ```
-<detail>
+<details>
 <summary>What do they do</summary>
-** -thunar = file browser
+   -thunar = file browser
    -vivaldi = browser
    -swaync = notification daemon
    -waybar = status bar
@@ -104,7 +104,7 @@ There is 3 main reasons i use paru over yay:
    -mpvpaper = video wallpaper (it may cause performance issues)
    -ani-cli = watch anime
    -cmatix = cool matrix rain effect
-   -cava = audio visualizer
-</detail>
+   -cava = audio visualizer 
+</details>
    
   
