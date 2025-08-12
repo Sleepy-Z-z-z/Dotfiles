@@ -6,8 +6,8 @@ These are my first attempt at ricing in linux
 - [**Hyprland**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#hyprlandconf)
 - [**Kitty**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#kitty)
 - [**fastfetch**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#fastfetch)
-- [**ZSHELL**]
-- [**Packages/AUR helper**]
+- [**ZSHELL**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#zsh-zshell)
+- [**Packages/AUR helper**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#packagesaur-helper)
 --------------------------------------------------------------
 #  Hyprland
   -WARNING-
