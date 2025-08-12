@@ -6,14 +6,19 @@ These are my first attempt at ricing in linux
 - [**Hyprland**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#hyprlandconf)
 - [**Kitty**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#kitty)
 - [**fastfetch**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#fastfetch)
+- [**ZSHELL**]
+- [**Packages/AUR helper**]
 --------------------------------------------------------------
 #  Hyprland.conf
   -WARNING-
   You may need to change some of the flies paths / settings to adjust to your own
   - I pywall should work but make sure to create the template since i havent yet finished configuring pywall thus havenet added it      yet.
   - This file will have to be updated soon since i change many things (+ I will try to make it auto set things like monitors or use ~ for file paths instead of /home/USR/
-    # KEYBINDS
+
+    **KEYBINDS**
+
     (using defualt hyprland binds for most of it.
+
     -SUPER + W , opens browser ( I use vivaldi rn).
     
     -SUPER + F , to set fullscreen.
@@ -40,3 +45,32 @@ These are my first attempt at ricing in linux
 **Preview:**
  
  ![Example](https://github.com/user-attachments/assets/81c2863a-ba8b-4de0-ac1f-b12dfdf88219)
+# ZSH (ZSHELL)
+-Make sure you are using OMZ (Oh my zsh) for plugin compatiblity
+
+# Packages/AUR helper
+-For my AUR helper i use paru (**you can use any others such as yay just incase**)
+<details>
+<summary> Why I use paru </summary>
+There is 3 main reasons i use paru over yay:
+
+  1. Its written in rust which is apparently faster 
+
+  2. Its tells me more info abt the package (I think yay can do that too but you have to set it up )
+  
+  3.Paru is just fater to type since its different letters meaning i can just press them all at the same time
+
+   (I just wanted to make a drop down sorry)
+   </details>
+
+   **Useful packages**
+   
+   ```bash
+   sudo pacman -Syu thunar vivaldi swaync waybar steam prismlauncher discord yazi btop swww mpv wine zsh kitty nvim nwg-look unzip file-roller python-pywal clamav tty-clock
+   paru -Sy spotify spicetify waypaper mpvpaper ani-cli cmatrix cava  
+   ```
+
+   ```bash
+  sudo freshclam
+   ```
+  
