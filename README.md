@@ -1,5 +1,5 @@
 
-# Dotfilesv1
+# Sleepydots
 These are my first attempt at ricing in linux 
 
 # Index 
