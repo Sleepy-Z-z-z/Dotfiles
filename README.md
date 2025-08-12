@@ -9,7 +9,7 @@ These are my first attempt at ricing in linux
 - [**ZSHELL**]
 - [**Packages/AUR helper**]
 --------------------------------------------------------------
-#  Hyprland.conf
+#  Hyprland
   -WARNING-
   You may need to change some of the flies paths / settings to adjust to your own
   - I pywall should work but make sure to create the template since i havent yet finished configuring pywall thus havenet added it      yet.
@@ -63,14 +63,48 @@ There is 3 main reasons i use paru over yay:
    (I just wanted to make a drop down sorry)
    </details>
 
-   **Useful packages**
+   **Useful packages (remove the ones you dont want**
    
    ```bash
-   sudo pacman -Syu thunar vivaldi swaync waybar steam prismlauncher discord yazi btop swww mpv wine zsh kitty nvim nwg-look unzip file-roller python-pywal clamav tty-clock
+   sudo pacman -Syu thunar vivaldi swaync waybar steam prismlauncher discord yazi btop swww mpv wine zsh kitty nvim nwg-look unzip file-roller python-pywal clamav tty-clock pavucontrol fastfetch
    paru -Sy spotify spicetify waypaper mpvpaper ani-cli cmatrix cava  
    ```
 
    ```bash
   sudo freshclam
    ```
+<detail>
+<summary>What do they do</summary>
+** -thunar = file browser
+   -vivaldi = browser
+   -swaync = notification daemon
+   -waybar = status bar
+   -steam = steam 
+   -prismlauncher = minecraft launcher
+   -discord = messaging app
+   -yazi = file browser but in terminal
+   -btop = taskmanager/resource monitor
+   -swww = wallpaper daemon
+   -mpv = adds video compatibility
+   -wine=adds "support" for windows programs
+   -zsh = shell 
+   -kitty = terminal simulator
+   -nvim = text editor
+   -nwg-look = helps change gtk app themes/icons etc
+   -unzip = unzips files
+   -file-roller = unzips other types of files like .rar .7z etc (+has a gui)
+   -python-pywal = color theme creator 
+   -clamav = basically antivirus
+   -tty-clock = clock
+   -pavucontrol = audio controls 
+   -fastfetch = fastfetch (you can use neofetch if you want)
+   -spotify = spotify
+   -spicetify = spotify custumization tool
+   -waypaper = wallpaper picker + makes things easier to manage and setup
+   -mpvpaper = video wallpaper (it may cause performance issues)
+   -ani-cli = watch anime
+   -cmatix = cool matrix rain effect
+   -cava = audio visualizer
+</detail>
+   
   
