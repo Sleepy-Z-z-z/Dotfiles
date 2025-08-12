@@ -48,6 +48,7 @@ These are my first attempt at ricing in linux
 # ZSH (ZSHELL)
 -Make sure you are using OMZ (Oh my zsh) for plugin compatiblity
 
+-[Refer to this for plugins](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df)
 # Packages/AUR helper
 -For my AUR helper i use paru (**you can use any others such as yay just incase**)
 <details>
