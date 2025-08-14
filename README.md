@@ -67,8 +67,8 @@ There is 3 main reasons i use paru over yay:
    **Useful packages (remove the ones you dont want**
    
    ```bash
-   sudo pacman -Syu thunar vivaldi swaync waybar steam prismlauncher discord yazi btop swww mpv wine zsh kitty nvim nwg-look unzip file-roller python-pywal clamav tty-clock pavucontrol fastfetch
-   paru -Sy spotify spicetify waypaper mpvpaper ani-cli cmatrix cava  
+       sudo pacman -Sy thunar vivaldi swaync waybar steam prismlauncher discord yazi btop swww mpv wine zsh kitty nvim nwg-look unzip file-roller python-pywal clamav pavucontrol fastfetch;
+       paru -Sy spotify  waypaper mpvpaper ani-cli cmatrix cava  
    ```
 
    ```bash
