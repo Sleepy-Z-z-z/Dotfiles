@@ -33,5 +33,5 @@ mv ~/Sleepydots/kitty ~/.config/
 mv ~/Sleepydots/wal ~/.config/
 mv ~/Sleepydots/zsh ~/
 mv ~/Sleepydots/hyprland.conf ~/.config/hypr/
-
+mv ~/Sleepydots/init.lua ~/.config/nvim
 echo "Done :)"
