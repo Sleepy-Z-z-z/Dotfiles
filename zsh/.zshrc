@@ -1,3 +1,4 @@
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
@@ -104,5 +105,13 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 fastfetch
+
+alias ls="exa"
+alias ll="exa -alh"
+alias tree="exa --tree"
+alias cat="bat"
+alias zz="z -"
+alias rg="ripgrep"
+eval "$(zoxide init --cmd cd zsh)"
 
 export PATH=$PATH:/home/sleepy/.spicetify
