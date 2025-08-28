@@ -1,6 +1,6 @@
 
 # Sleepydots
-These are my first attempt at ricing in linux (These dotfiles are yet to be complete btw so there might be some issues)
+These are my first attempt at ricing in linux (These dotfiles are yet to be complete btw so there might be some issues) (Install.sh is a work in progress but it should work tho id say is use at your own risk rn)
 
 # Index 
 - [**Hyprland**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#hyprlandconf)
