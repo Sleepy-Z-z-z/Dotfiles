@@ -6,26 +6,18 @@
     "title",
     "separator",
     "break",
-    "break",
-    "break",
-    "break",
-    "break",
     "os",
     "kernel",
     "wmtheme",
     "theme",
     "break",
-    "break",
-    "break",
     "shell",
     "terminal",
-    "break",
     "break",
     "Player",
     "Media",
     "break",
     "colors",
-    "break",
     "separator"
     
   ],
@@ -40,4 +32,3 @@
 
 
 }
-
