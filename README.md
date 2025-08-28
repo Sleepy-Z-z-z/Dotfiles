@@ -2,6 +2,8 @@
 # Sleepydots
 These are my first attempt at ricing in linux (These dotfiles are yet to be complete btw so there might be some issues) (Install.sh is a work in progress but it should work tho id say is use at your own risk rn)
 
+Btw install.sh only works on arch rn (it uses pacman to install most programs)
+
 # Index 
 - [**Hyprland**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#hyprlandconf)
 - [**Kitty**](https://github.com/Sleepy-Z-z-z/Dotfilesv1?tab=readme-ov-file#kitty)
