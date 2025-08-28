@@ -8,7 +8,7 @@ git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 cd
-sudo pacman -S hyprland kitty nvim
+sudo pacman -S hyprland kitty nvim vivaldi
 sudo pacman -S ripgrep zsh fzf yazi zoxide bat fd exa
 paru -Sy preload spotify spicetify
 sudo pacman -S mpv mpris
