@@ -1,5 +1,5 @@
 # Sleepy's Dotfiles for hypralnd
-
+Migrating to wallust bc idk
 ** Index ** 
   - Keybinds 
   - Hyprland config 
